@@ -12,3 +12,6 @@ By making a contribution to this project, I certify that:
 4. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
 Signed-off-by: Daniel Allen Sr <TheAllenAffair@outlook.com>
+
+
+git commit --amend --no-edit --signoff="TheAllenAffair@outlook.com"git config --global user.email "TheAllenAffair@outlook.com"git commit --signoff -m "Your commit message"
