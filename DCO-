@@ -27,3 +27,7 @@ By making a contribution to this project, I certify that:
 This is my commit message
 
 Signed-off-by: <TheAllenAffair@outlook.com>
+git add <file1> <file2> ...git commit --signoff -m "Your commit message"
+Signed-off-by: TheAllenAffair <TheAllenAffair@outlook.com>
+git config user.name "TheAllenAffair"
+git config user.email "TheAllenAffair@outlook.com" --sign off
